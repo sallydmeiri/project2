@@ -1,0 +1,476 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+craft1
+</name>
+</assembly>
+<members>
+<member name="T:craft1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:craft1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:craft1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.clientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.employeeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.JobDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.outlyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.priceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.reservation_dateDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.shipping_orderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.sing_inDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.squeeze_detailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.clientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.employeeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.JobRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.outlyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.priceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.reservation_dateRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.shipping_orderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.sing_inRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.squeeze_detailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.clientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.employeeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.JobRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.outlyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.priceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.reservation_dateRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.shipping_orderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.sing_inRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1.squeeze_detailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1TableAdapters.clientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1TableAdapters.employeeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1TableAdapters.JobTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1TableAdapters.outlyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1TableAdapters.priceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1TableAdapters.reservation_dateTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1TableAdapters.shipping_orderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1TableAdapters.sing_inTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1TableAdapters.squeeze_detailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:craft1.oil_factor_last_copyvbDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(craft1.oil_factor_last_copyvbDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:craft1.oil_factor_last_copyvbDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(craft1.oil_factor_last_copyvbDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:craft1.oil_factor_last_copyvbDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(craft1.oil_factor_last_copyvbDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:craft1.oil_factor_last_copyvbDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:craft1.oil_factor_last_copyvbDataSet1TableAdapters.TableAdapterManager.UpdateAll(craft1.oil_factor_last_copyvbDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.clientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.employeeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.JobDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.outlyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.priceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.reservation_dateDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.shipping_orderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.sing_inDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.squeeze_detailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.clientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.employeeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.JobRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.outlyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.priceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.reservation_dateRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.shipping_orderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.sing_inRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.squeeze_detailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.clientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.employeeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.JobRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.outlyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.priceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.reservation_dateRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.shipping_orderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.sing_inRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSet.squeeze_detailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSetTableAdapters.clientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSetTableAdapters.employeeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSetTableAdapters.JobTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSetTableAdapters.outlyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSetTableAdapters.priceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSetTableAdapters.reservation_dateTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSetTableAdapters.shipping_orderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSetTableAdapters.sing_inTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSetTableAdapters.squeeze_detailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:craft1.oil_factor_last_copyvbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(craft1.oil_factor_last_copyvbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:craft1.oil_factor_last_copyvbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(craft1.oil_factor_last_copyvbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:craft1.oil_factor_last_copyvbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(craft1.oil_factor_last_copyvbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:craft1.oil_factor_last_copyvbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:craft1.oil_factor_last_copyvbDataSetTableAdapters.TableAdapterManager.UpdateAll(craft1.oil_factor_last_copyvbDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:craft1.oil_factor_last_copyvbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

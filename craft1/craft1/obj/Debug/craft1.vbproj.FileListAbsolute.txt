@@ -1,0 +1,193 @@
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\الواجها الولى\craft1\craft1\bin\Debug\craft1.exe.config
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\الواجها الولى\craft1\craft1\bin\Debug\craft1.exe
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\الواجها الولى\craft1\craft1\bin\Debug\craft1.pdb
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\الواجها الولى\craft1\craft1\bin\Debug\craft1.xml
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\الواجها الولى\craft1\craft1\obj\Debug\craft1.vbprojAssemblyReference.cache
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\الواجها الولى\craft1\craft1\obj\Debug\craft1.btnsingin.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\الواجها الولى\craft1\craft1\obj\Debug\craft1.mp.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\الواجها الولى\craft1\craft1\obj\Debug\craft1.Resources.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\الواجها الولى\craft1\craft1\obj\Debug\craft1.vbproj.GenerateResource.cache
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\الواجها الولى\craft1\craft1\obj\Debug\craft1.vbproj.CoreCompileInputs.cache
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\الواجها الولى\craft1\craft1\obj\Debug\craft1.exe
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\الواجها الولى\craft1\craft1\obj\Debug\craft1.xml
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\الواجها الولى\craft1\craft1\obj\Debug\craft1.pdb
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\الواجها الولى\craft1\craft1\bin\Debug\oil factor last copyvb.mdb
+C:\Users\ashwa\Downloads\الشغل الاخير\craft1\craft1\craft1\obj\Debug\craft1.vbprojAssemblyReference.cache
+C:\Users\ashwa\Downloads\الشغل الاخير\craft1\craft1\craft1\obj\Debug\craft1.clint.resources
+C:\Users\ashwa\Downloads\الشغل الاخير\craft1\craft1\craft1\obj\Debug\craft1.employee.resources
+C:\Users\ashwa\Downloads\الشغل الاخير\craft1\craft1\craft1\obj\Debug\craft1.job.resources
+C:\Users\ashwa\Downloads\الشغل الاخير\craft1\craft1\craft1\obj\Debug\craft1.outly.resources
+C:\Users\ashwa\Downloads\الشغل الاخير\craft1\craft1\craft1\obj\Debug\craft1.price.resources
+C:\Users\ashwa\Downloads\الشغل الاخير\craft1\craft1\craft1\obj\Debug\craft1.reservation_date.resources
+C:\Users\ashwa\Downloads\الشغل الاخير\craft1\craft1\craft1\obj\Debug\craft1.shipping_order.resources
+C:\Users\ashwa\Downloads\الشغل الاخير\craft1\craft1\craft1\obj\Debug\craft1.login.resources
+C:\Users\ashwa\Downloads\الشغل الاخير\craft1\craft1\craft1\obj\Debug\craft1.welcome.resources
+C:\Users\ashwa\Downloads\الشغل الاخير\craft1\craft1\craft1\obj\Debug\craft1.Resources.resources
+C:\Users\ashwa\Downloads\الشغل الاخير\craft1\craft1\craft1\obj\Debug\craft1.vbproj.GenerateResource.cache
+C:\Users\ashwa\Downloads\الشغل الاخير\craft1\craft1\craft1\obj\Debug\craft1.vbproj.CoreCompileInputs.cache
+C:\Users\ashwa\Downloads\الشغل الاخير\craft1\craft1\craft1\obj\Debug\craft1.exe
+C:\Users\ashwa\Downloads\الشغل الاخير\craft1\craft1\craft1\obj\Debug\craft1.xml
+C:\Users\ashwa\Downloads\الشغل الاخير\craft1\craft1\craft1\obj\Debug\craft1.pdb
+C:\Users\ashwa\Downloads\الشغل الاخير\craft1\craft1\craft1\bin\Debug\oil factor last copyvb.mdb
+C:\Users\ashwa\Downloads\الشغل الاخير\craft1\craft1\craft1\bin\Debug\craft1.exe.config
+C:\Users\ashwa\Downloads\الشغل الاخير\craft1\craft1\craft1\bin\Debug\craft1.exe
+C:\Users\ashwa\Downloads\الشغل الاخير\craft1\craft1\craft1\bin\Debug\craft1.pdb
+C:\Users\ashwa\Downloads\الشغل الاخير\craft1\craft1\craft1\bin\Debug\craft1.xml
+C:\Users\ashwa\Downloads\الشغل الاخير\craft1\craft1\craft1\obj\Debug\craft1.squeeze_details.resources
+C:\Users\sally\Desktop\sallyfaraj\craft1\craft1\bin\Debug\oil factor last copyvb.mdb
+C:\Users\sally\Desktop\sallyfaraj\craft1\craft1\bin\Debug\craft1.exe.config
+C:\Users\sally\Desktop\sallyfaraj\craft1\craft1\bin\Debug\craft1.exe
+C:\Users\sally\Desktop\sallyfaraj\craft1\craft1\bin\Debug\craft1.pdb
+C:\Users\sally\Desktop\sallyfaraj\craft1\craft1\bin\Debug\craft1.xml
+C:\Users\sally\Desktop\sallyfaraj\craft1\craft1\obj\Debug\craft1.vbprojAssemblyReference.cache
+C:\Users\sally\Desktop\sallyfaraj\craft1\craft1\obj\Debug\craft1.clint.resources
+C:\Users\sally\Desktop\sallyfaraj\craft1\craft1\obj\Debug\craft1.employee.resources
+C:\Users\sally\Desktop\sallyfaraj\craft1\craft1\obj\Debug\craft1.job.resources
+C:\Users\sally\Desktop\sallyfaraj\craft1\craft1\obj\Debug\craft1.outly.resources
+C:\Users\sally\Desktop\sallyfaraj\craft1\craft1\obj\Debug\craft1.price.resources
+C:\Users\sally\Desktop\sallyfaraj\craft1\craft1\obj\Debug\craft1.reservation_date.resources
+C:\Users\sally\Desktop\sallyfaraj\craft1\craft1\obj\Debug\craft1.shipping_order.resources
+C:\Users\sally\Desktop\sallyfaraj\craft1\craft1\obj\Debug\craft1.squeeze_details.resources
+C:\Users\sally\Desktop\sallyfaraj\craft1\craft1\obj\Debug\craft1.login.resources
+C:\Users\sally\Desktop\sallyfaraj\craft1\craft1\obj\Debug\craft1.welcome.resources
+C:\Users\sally\Desktop\sallyfaraj\craft1\craft1\obj\Debug\craft1.Resources.resources
+C:\Users\sally\Desktop\sallyfaraj\craft1\craft1\obj\Debug\craft1.vbproj.GenerateResource.cache
+C:\Users\sally\Desktop\sallyfaraj\craft1\craft1\obj\Debug\craft1.vbproj.CoreCompileInputs.cache
+C:\Users\sally\Desktop\sallyfaraj\craft1\craft1\obj\Debug\craft1.exe
+C:\Users\sally\Desktop\sallyfaraj\craft1\craft1\obj\Debug\craft1.xml
+C:\Users\sally\Desktop\sallyfaraj\craft1\craft1\obj\Debug\craft1.pdb
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\craft1\craft1\bin\Debug\oil factor last copyvb.mdb
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\craft1\craft1\bin\Debug\craft1.exe.config
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\craft1\craft1\bin\Debug\craft1.exe
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\craft1\craft1\bin\Debug\craft1.pdb
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\craft1\craft1\bin\Debug\craft1.xml
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\craft1\craft1\obj\Debug\craft1.vbprojAssemblyReference.cache
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\craft1\craft1\obj\Debug\craft1.clint.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\craft1\craft1\obj\Debug\craft1.employee.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\craft1\craft1\obj\Debug\craft1.job.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\craft1\craft1\obj\Debug\craft1.outly.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\craft1\craft1\obj\Debug\craft1.price.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\craft1\craft1\obj\Debug\craft1.reservation_date.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\craft1\craft1\obj\Debug\craft1.shipping_order.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\craft1\craft1\obj\Debug\craft1.squeeze_details.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\craft1\craft1\obj\Debug\craft1.login.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\craft1\craft1\obj\Debug\craft1.welcome.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\craft1\craft1\obj\Debug\craft1.Resources.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\craft1\craft1\obj\Debug\craft1.vbproj.GenerateResource.cache
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\craft1\craft1\obj\Debug\craft1.vbproj.CoreCompileInputs.cache
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\craft1\craft1\obj\Debug\craft1.exe
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\craft1\craft1\obj\Debug\craft1.xml
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\craft1\craft1\obj\Debug\craft1.pdb
+C:\Users\201912186\Downloads\craft1\craft1\bin\Debug\oil factor last copyvb.mdb
+C:\Users\201912186\Downloads\craft1\craft1\bin\Debug\craft1.exe.config
+C:\Users\201912186\Downloads\craft1\craft1\bin\Debug\craft1.exe
+C:\Users\201912186\Downloads\craft1\craft1\bin\Debug\craft1.pdb
+C:\Users\201912186\Downloads\craft1\craft1\bin\Debug\craft1.xml
+C:\Users\201912186\Downloads\craft1\craft1\obj\Debug\craft1.vbprojAssemblyReference.cache
+C:\Users\201912186\Downloads\craft1\craft1\obj\Debug\craft1.clint.resources
+C:\Users\201912186\Downloads\craft1\craft1\obj\Debug\craft1.employee.resources
+C:\Users\201912186\Downloads\craft1\craft1\obj\Debug\craft1.job.resources
+C:\Users\201912186\Downloads\craft1\craft1\obj\Debug\craft1.outly.resources
+C:\Users\201912186\Downloads\craft1\craft1\obj\Debug\craft1.price.resources
+C:\Users\201912186\Downloads\craft1\craft1\obj\Debug\craft1.reservation_date.resources
+C:\Users\201912186\Downloads\craft1\craft1\obj\Debug\craft1.shipping_order.resources
+C:\Users\201912186\Downloads\craft1\craft1\obj\Debug\craft1.squeeze_details.resources
+C:\Users\201912186\Downloads\craft1\craft1\obj\Debug\craft1.login.resources
+C:\Users\201912186\Downloads\craft1\craft1\obj\Debug\craft1.welcome.resources
+C:\Users\201912186\Downloads\craft1\craft1\obj\Debug\craft1.Resources.resources
+C:\Users\201912186\Downloads\craft1\craft1\obj\Debug\craft1.vbproj.GenerateResource.cache
+C:\Users\201912186\Downloads\craft1\craft1\obj\Debug\craft1.vbproj.CoreCompileInputs.cache
+C:\Users\201912186\Downloads\craft1\craft1\obj\Debug\craft1.exe
+C:\Users\201912186\Downloads\craft1\craft1\obj\Debug\craft1.xml
+C:\Users\201912186\Downloads\craft1\craft1\obj\Debug\craft1.pdb
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\last\craft1\craft1\bin\Debug\oil factor last copyvb.mdb
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\last\craft1\craft1\bin\Debug\craft1.exe.config
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\last\craft1\craft1\bin\Debug\craft1.exe
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\last\craft1\craft1\bin\Debug\craft1.pdb
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\last\craft1\craft1\bin\Debug\craft1.xml
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\last\craft1\craft1\obj\Debug\craft1.vbprojAssemblyReference.cache
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\last\craft1\craft1\obj\Debug\craft1.clint.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\last\craft1\craft1\obj\Debug\craft1.employee.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\last\craft1\craft1\obj\Debug\craft1.job.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\last\craft1\craft1\obj\Debug\craft1.outly.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\last\craft1\craft1\obj\Debug\craft1.price.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\last\craft1\craft1\obj\Debug\craft1.reservation_date.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\last\craft1\craft1\obj\Debug\craft1.shipping_order.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\last\craft1\craft1\obj\Debug\craft1.squeeze_details.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\last\craft1\craft1\obj\Debug\craft1.login.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\last\craft1\craft1\obj\Debug\craft1.welcome.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\last\craft1\craft1\obj\Debug\craft1.Resources.resources
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\last\craft1\craft1\obj\Debug\craft1.vbproj.GenerateResource.cache
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\last\craft1\craft1\obj\Debug\craft1.vbproj.CoreCompileInputs.cache
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\last\craft1\craft1\obj\Debug\craft1.exe
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\last\craft1\craft1\obj\Debug\craft1.xml
+C:\Users\ashwa\Downloads\2Y2S\مشروع التخرج\last\craft1\craft1\obj\Debug\craft1.pdb
+C:\Users\201912186\Downloads\craft9\craft1\craft1\obj\Debug\craft1.vbprojAssemblyReference.cache
+C:\Users\201912186\Downloads\craft9\craft1\craft1\obj\Debug\craft1.clint.resources
+C:\Users\201912186\Downloads\craft9\craft1\craft1\obj\Debug\craft1.employee.resources
+C:\Users\201912186\Downloads\craft9\craft1\craft1\obj\Debug\craft1.job.resources
+C:\Users\201912186\Downloads\craft9\craft1\craft1\obj\Debug\craft1.outly.resources
+C:\Users\201912186\Downloads\craft9\craft1\craft1\obj\Debug\craft1.price.resources
+C:\Users\201912186\Downloads\craft9\craft1\craft1\obj\Debug\craft1.reservation_date.resources
+C:\Users\201912186\Downloads\craft9\craft1\craft1\obj\Debug\craft1.shipping_order.resources
+C:\Users\201912186\Downloads\craft9\craft1\craft1\obj\Debug\craft1.squeeze_details.resources
+C:\Users\201912186\Downloads\craft9\craft1\craft1\obj\Debug\craft1.login.resources
+C:\Users\201912186\Downloads\craft9\craft1\craft1\obj\Debug\craft1.welcome.resources
+C:\Users\201912186\Downloads\craft9\craft1\craft1\obj\Debug\craft1.Resources.resources
+C:\Users\201912186\Downloads\craft9\craft1\craft1\obj\Debug\craft1.vbproj.GenerateResource.cache
+C:\Users\201912186\Downloads\craft9\craft1\craft1\obj\Debug\craft1.vbproj.CoreCompileInputs.cache
+C:\Users\201912186\Downloads\craft9\craft1\craft1\obj\Debug\craft1.exe
+C:\Users\201912186\Downloads\craft9\craft1\craft1\obj\Debug\craft1.xml
+C:\Users\201912186\Downloads\craft9\craft1\craft1\obj\Debug\craft1.pdb
+C:\Users\201912186\Downloads\craft9\craft1\craft1\bin\Debug\App.config
+C:\Users\201912186\Downloads\craft9\craft1\craft1\bin\Debug\oil factor last copyvb.mdb
+C:\Users\201912186\Downloads\craft9\craft1\craft1\bin\Debug\craft1.exe.config
+C:\Users\201912186\Downloads\craft9\craft1\craft1\bin\Debug\craft1.exe
+C:\Users\201912186\Downloads\craft9\craft1\craft1\bin\Debug\craft1.pdb
+C:\Users\201912186\Downloads\craft9\craft1\craft1\bin\Debug\craft1.xml
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\bin\Debug\oil factor last copyvb.mdb
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\bin\Debug\App.config
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\bin\Debug\craft1.exe.config
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\bin\Debug\craft1.exe
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\bin\Debug\craft1.pdb
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\bin\Debug\craft1.xml
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\obj\Debug\craft1.vbprojAssemblyReference.cache
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\obj\Debug\craft1.clint.resources
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\obj\Debug\craft1.employee.resources
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\obj\Debug\craft1.job.resources
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\obj\Debug\craft1.outly.resources
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\obj\Debug\craft1.price.resources
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\obj\Debug\craft1.reservation_date.resources
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\obj\Debug\craft1.shipping_order.resources
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\obj\Debug\craft1.squeeze_details.resources
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\obj\Debug\craft1.login.resources
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\obj\Debug\craft1.welcome.resources
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\obj\Debug\craft1.Resources.resources
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\obj\Debug\craft1.vbproj.GenerateResource.cache
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\obj\Debug\craft1.vbproj.CoreCompileInputs.cache
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\obj\Debug\craft1.exe
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\obj\Debug\craft1.xml
+C:\Users\sally\Desktop\sallyfaraj\craft9\craft1\craft1\obj\Debug\craft1.pdb
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\obj\Debug\craft1.vbprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\obj\Debug\craft1.employee.resources
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\obj\Debug\craft1.job.resources
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\obj\Debug\craft1.outly.resources
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\obj\Debug\craft1.price.resources
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\obj\Debug\craft1.reservation_date.resources
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\obj\Debug\craft1.shipping_order.resources
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\obj\Debug\craft1.squeeze_details.resources
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\obj\Debug\craft1.login.resources
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\obj\Debug\craft1.Resources.resources
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\obj\Debug\craft1.vbproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\obj\Debug\craft1.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\obj\Debug\craft1.exe
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\obj\Debug\craft1.xml
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\obj\Debug\craft1.pdb
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\bin\Debug\oil factor last copyvb.mdb
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\bin\Debug\App.config
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\bin\Debug\craft1.exe.config
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\bin\Debug\craft1.exe
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\bin\Debug\craft1.pdb
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\bin\Debug\craft1.xml
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\obj\Debug\craft1.Form1.resources
+C:\Users\Lenovo\Desktop\last lap\max\2Y2S\مشروع التخرج\last\craft9\craft1\craft1\obj\Debug\craft1.client.resources
